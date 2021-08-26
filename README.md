@@ -3,16 +3,18 @@
 - 🎒 Faço curso Técnico em informática pela Universidade Federal de Viçosa, no campus florestal
 - 🌱 Atualmente aprendendo Python
 
-<p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-       height="175"
-        src="https://github-readme-stats.vercel.app/api?username=JuliaSuriani&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
+    <img  
+         align="center"
+         height="120"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSuriani&layout=compact&theme=gotham"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      height="175"
+         align="center"
+      height="165"
       src="https://github-readme-stats.vercel.app/api?username=JuliaSuriani&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=gotham"
     />
   </a>
