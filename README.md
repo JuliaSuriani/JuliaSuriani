@@ -5,16 +5,14 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  
-         align="center"
+    <img  -         
          height="120"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSuriani&layout=compact&theme=gotham"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-         align="center"
-      height="165"
+        height="165"
       src="https://github-readme-stats.vercel.app/api?username=JuliaSuriani&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=gotham"
     />
   </a>
