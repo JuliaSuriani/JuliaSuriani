@@ -3,9 +3,9 @@
 - 🎒 Faço curso Técnico em informática pela Universidade Federal de Viçosa, no campus florestal
 - 🌱 Atualmente aprendendo Python
 
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  -         
+    <img         
          height="120"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSuriani&layout=compact&theme=gotham"
     />
