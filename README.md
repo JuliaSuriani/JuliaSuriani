@@ -6,7 +6,7 @@
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img         
-         height="120"
+         height="120" width="400"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSuriani&layout=compact&theme=gotham"
     />
   </a>
