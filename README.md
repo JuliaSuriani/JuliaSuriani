@@ -4,7 +4,6 @@
 - 🎒 Formada em Técnico em Informática pela UFV - Florestal
 - 🌱 Atualmente aprendendo Python
 - 🏭 Trabalhando como Aprendiz no setor de soluções de mídia da Emissora Globo Minas
-- 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img         
