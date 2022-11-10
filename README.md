@@ -1,8 +1,10 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Olá, eu sou a @JuliaSuriani 
-- 🤠 Pronomes: ela/dela 
-- 🎒 Faço curso Técnico em informática pela Universidade Federal de Viçosa, no campus florestal
-- 🌱 Atualmente aprendendo Python
 
+- 🤠 Pronomes: ela/dela 
+- 🎒 Formada em Técnico em Informática pela UFV - Florestal
+- 🌱 Atualmente aprendendo Python
+- 🏭 Trabalhando como Aprendiz no setor de soluções de mídia da Emissora Globo Minas
+- 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img         
