@@ -2,8 +2,8 @@
 
 - 🤠 Pronomes: ela/dela 
 - 🎒 Formada em Técnico em Informática pela UFV - Florestal
-- 🌱 Atualmente aprendendo Python
-- 🏭 Trabalhando como Aprendiz no setor de soluções de mídia da Emissora Globo Minas
+- 👩‍💻 Atualmente cursando Ciência da Computação
+- 🏭 Trabalhando como Suporte Técnico pelo Ecossistema Ânima
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img         
