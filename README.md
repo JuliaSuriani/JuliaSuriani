@@ -2,7 +2,7 @@
 
 - 🤠 Pronomes: ela/dela 
 - 🎒 Formada em Técnico em Informática pela UFV - Florestal
-- 👩‍💻 Atualmente cursando Ciência da Computação
+- 👩‍💻 Atualmente cursando Ciência da Computação na UniBH
 - 🏭 Trabalhando como Suporte Técnico pelo Ecossistema Ânima
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
